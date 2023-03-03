@@ -19,7 +19,7 @@ public class IntellijMavenGitApplication {
 
 	@GetMapping("/hello")
 	public String getName(){
-		return "AmitTyagi";
+		return "Hello It is First program";
 	}
 
 }
